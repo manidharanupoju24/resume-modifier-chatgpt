@@ -1,0 +1,37 @@
+from pyChatGPT import ChatGPT
+
+session_token = 'eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..x9DIDUPgCzSZaNNx.d3482itZz_fnG5uv2CXa2fwGxn8Lyove7QvpfTjNItk70ubcED0NN_yMhkV1Ro5JnOEw17h9tLUBnElhbIbA-1d5dosOu1lWzCyHVZ8D0V7fZvCTGZRwhS1jLo7zc4qYOQS6x_5M_AihRUn9Ys06C9c5iGoX0PdFBTmbwfZ_OtsT6_Vuqx5I4K8UUlowVWSeMnjTTNbaaeGUdfMh2AQ_G4fG42ezJ75UWkenJ7E0SEVxsB7Xji5mHV44tNDLu1fRWDzRvt17GoD-sIivOQztDxhC7FnnFr7mEyEVUyS8nj8HZzNVbZyPRr71SI5jFue21qXTBpEJULqMJCZ9N_rlYow7dk3c1ux9ZygJIaUuUhuj5u3Tlb2_K7GCTVgS2oCGepnjSSsiEAgF12uFgKnhP9ZM3CObKug7hTqQqVfpsiTppFDfQ6aq1IXdNivFWv8duwrYgpdqkTbra0L1zY2WOIj_iJPZz_hIavGPvGKxuNwTYETgHQK2-nBG03e9Gw6zAg4D_olpP-dQA--yD05vfC6ciM5O8NIV4pKedYQLAQtzyFGXNa5tRTpvxGdtHGadbqs-kUXUZqpJlG3WL3vJZxy16UgDf8Cnxwl-Iss0MfmxGhjMTqeWRApSQ9Xtrjf6KKVUN3copMpjide_BL4J8GjE5rd3Igho1S6yiLoqVcLQ5tyQnMpsZ8OR8omWJmh5F7mRgNvOey4rFdltvdnAxEoratWkq3DDW-eNbhEX1g8-1C1aV3hWQGd2JnMB5jaqdWf92VPLP3mGHa3XfTHSVmPylZG5L-U42UYaLNNyjbwQKlYyYLFGT17R7Akg-8lM4t4shOb1evhn4KzWuVXc0vuuiCdNzD0StBzCdpyoE6NCQ8HJvhFhe_7cnedkWiAcykxKvY9NeSg6dTsNGEhJ4IQ2tzuzi7-qlTqUZXJJfY4nZB28Ovq-tb_Y0daOb_1m99wLWjt8-gOD-BfjNaGaQpkLaT7JiWr9ip6Gh9k5Y7b99Dz74oEKrPr-KwqaW5gQmDaP0txCDmyXI_9qR_gVrFt-Ft4aHQBgBp_tqNjdRwxBZwM29D04A8Q5osFslVLDSeVFuHK8eFAti8IRpFiSq7OvjBuOYVGd6ZuyrZ9oIPTK59N-euHg9Bn8AUhG6YQTGIHscdSc1OV3qfUJSOgNfbTe0sZzv5uZkLGxvVBPSNTVtkTlX0_8odeHDUIImh0aMy2gB9AGr_8b4h_r86ezYlyz43l3MMnkpr3M3nmdY3PZTpNR6_NGdfcVkCwJykkhNv0Lmk1aYzGjqO3IIVsvBmnbEZVAxfYLkNlSksvNNgem2wBUmkS6z6NoqBxhMnnu8FtFEgbd-KoDjzAvv14jrH37HZUqdaN2FcNIC-WGNLFoicDfXuf1_1W7WBx2DyuQEgjRz4YkOj19LI6N7RI0cOM3J2Gnq2EemPFmr48lfT-SJfK7qrIudDMFQyFHZLYoTd2oYOD8nBVPUqxINcNmntCwfvuDPLIlwGXPIJw2LmWmewYZNkvaDLsVANKapBI5Xsg-sH84jIVmA_Dv6M-f8sDFvLJSAR3AXTN2juxWq4IkwdTqpy6pZH15oNnjGAxje75X1RGwRAzfkNrZPgZSfMrEgd6G2vJOpWEHZ7-3VCYVuwrzTnuj6eUM9WFNa-YYh4wMY4Am54gSmg55SAK6FCegf5hq_Ulh7_5biDyMIIHl8Xpa3w52oW9ZTr-S8KGCHhno8e7itZkow6G0fCDfOu2F-PDEB53MC037PxuVbrNVA2h3kT5KghP9jnZ2E1knCboq0fcZbGHt_9unOsWZXyyScXsJykjdavEuxZhDFD2CnN7e7-UhRc8myJ3_v0eo8_I3VVL7lEwPipW3-Gp-LzNiiSBPViCjLGlMt_AsPZopG3oemfEW1UqW8HE7ejiX6uV1ea6VWyL3DNJQUKLoQEOO_hB89ewqAglQgNYf8k7adLKpOfbzcSGy3E0toPvLVyWcY5sA5SIbVbrz0m59We1dV6pgjzLJyvJ7Q7PEGzfL-eUBoO0FthLONZmHSnpxMX04rB55lGcaSz9PA9UJRf6i3ahbClk-pHh3A9Vtmw8nIwzVsJjgkyyEbXDbtgcvv-EClziPsqVsUbGbv-ArvixtODpWqfq7dCsuHMg_fhDoDlLDup8_u8vXrbVolifqXVktkz-w6kC-MACjHUrBdwnWhRMYtKtCFjZTiRbxit1QwjdKL51zkZk16fifTOgYl-iANHtyWxgqaCqKpNan4ZCtVj1VPZy2_JH163CPC19ZUElhRemJRD2sQmsmWydu7d0kHpDELnSW71HdeEL1hSgHtk23_j-dsDvzNQydNCOnffnVpABn_-ahMglvcrslDY00Goweet2da4Sc3YH46mg0iL1RUZusH1eIfhnv2rIP7zxI9Lw6iPXd9GZd_eNYu4KeO17aJUAF8LAYsGGhv7O-ZIRAtwgw8DGI4M_Tt6XZfgIQY2kxqY1E1lvMNmVAVp7hFii8EkBlogQVYT3vLKR2b2STctGlgoqz94KtzeKM5dTeGPD-5X1We2dvuWVLD2afnenfALLtZAhd.A2CQk5iJyHCL4Q1nxYjqYg'
+
+job_role = input ('Hi! Please enter the role that you are applying to : \n')
+company_name = input('What is the name of the company that you are applying to : \n')
+print('Now, please enter the job description here : \n')
+
+lines1 = []
+while True:
+    line = input()
+    if line:
+        lines1.append(line)
+    else:
+        break
+job_description = '\n'.join(lines1)
+
+print('Good! Now please paste the resume points, so that I can provide you accurate results : \n')
+lines2 = []
+while True:
+    line = input()
+    if line:
+        lines2.append(line)
+    else:
+        break
+resume_points = '\n'.join(lines2)
+
+input_text_to_chatgpt_1 = f"Please personalise my resume for this {job_role} at company {company_name}."
+input_text_to_chatgpt_2 = f"Here is the job description: {job_description} and here is my resume: {resume_points}."
+print(input_text_to_chatgpt_2)
+#api = ChatGPT(session_token) # auth with session token
+#resp = api.send_message(input_text_to_chatgpt_1 + " " + input_text_to_chatgpt_2)
+#print(resp['message'])
+
+#api.refresh_auth()  # refresh authorization token
+#api.reset_conversation() # reset the conversation
+
